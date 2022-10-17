@@ -1,0 +1,15 @@
+H:\Meu Drive\Doc Silas\Silas\Logica\Portifolios_Pessoais\Projeto_1_CS\Portifolio_1_StoregeCarSystem\Portifolio_1_StoregeCarSystem\bin\Debug\net6.0\Portifolio_1_StoregeCarSystem.exe
+H:\Meu Drive\Doc Silas\Silas\Logica\Portifolios_Pessoais\Projeto_1_CS\Portifolio_1_StoregeCarSystem\Portifolio_1_StoregeCarSystem\bin\Debug\net6.0\Portifolio_1_StoregeCarSystem.deps.json
+H:\Meu Drive\Doc Silas\Silas\Logica\Portifolios_Pessoais\Projeto_1_CS\Portifolio_1_StoregeCarSystem\Portifolio_1_StoregeCarSystem\bin\Debug\net6.0\Portifolio_1_StoregeCarSystem.runtimeconfig.json
+H:\Meu Drive\Doc Silas\Silas\Logica\Portifolios_Pessoais\Projeto_1_CS\Portifolio_1_StoregeCarSystem\Portifolio_1_StoregeCarSystem\bin\Debug\net6.0\Portifolio_1_StoregeCarSystem.dll
+H:\Meu Drive\Doc Silas\Silas\Logica\Portifolios_Pessoais\Projeto_1_CS\Portifolio_1_StoregeCarSystem\Portifolio_1_StoregeCarSystem\bin\Debug\net6.0\Portifolio_1_StoregeCarSystem.pdb
+H:\Meu Drive\Doc Silas\Silas\Logica\Portifolios_Pessoais\Projeto_1_CS\Portifolio_1_StoregeCarSystem\Portifolio_1_StoregeCarSystem\obj\Debug\net6.0\Portifolio_1_StoregeCarSystem.csproj.AssemblyReference.cache
+H:\Meu Drive\Doc Silas\Silas\Logica\Portifolios_Pessoais\Projeto_1_CS\Portifolio_1_StoregeCarSystem\Portifolio_1_StoregeCarSystem\obj\Debug\net6.0\Portifolio_1_StoregeCarSystem.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Doc Silas\Silas\Logica\Portifolios_Pessoais\Projeto_1_CS\Portifolio_1_StoregeCarSystem\Portifolio_1_StoregeCarSystem\obj\Debug\net6.0\Portifolio_1_StoregeCarSystem.AssemblyInfoInputs.cache
+H:\Meu Drive\Doc Silas\Silas\Logica\Portifolios_Pessoais\Projeto_1_CS\Portifolio_1_StoregeCarSystem\Portifolio_1_StoregeCarSystem\obj\Debug\net6.0\Portifolio_1_StoregeCarSystem.AssemblyInfo.cs
+H:\Meu Drive\Doc Silas\Silas\Logica\Portifolios_Pessoais\Projeto_1_CS\Portifolio_1_StoregeCarSystem\Portifolio_1_StoregeCarSystem\obj\Debug\net6.0\Portifolio_1_StoregeCarSystem.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Doc Silas\Silas\Logica\Portifolios_Pessoais\Projeto_1_CS\Portifolio_1_StoregeCarSystem\Portifolio_1_StoregeCarSystem\obj\Debug\net6.0\Portifolio_1_StoregeCarSystem.dll
+H:\Meu Drive\Doc Silas\Silas\Logica\Portifolios_Pessoais\Projeto_1_CS\Portifolio_1_StoregeCarSystem\Portifolio_1_StoregeCarSystem\obj\Debug\net6.0\refint\Portifolio_1_StoregeCarSystem.dll
+H:\Meu Drive\Doc Silas\Silas\Logica\Portifolios_Pessoais\Projeto_1_CS\Portifolio_1_StoregeCarSystem\Portifolio_1_StoregeCarSystem\obj\Debug\net6.0\Portifolio_1_StoregeCarSystem.pdb
+H:\Meu Drive\Doc Silas\Silas\Logica\Portifolios_Pessoais\Projeto_1_CS\Portifolio_1_StoregeCarSystem\Portifolio_1_StoregeCarSystem\obj\Debug\net6.0\Portifolio_1_StoregeCarSystem.genruntimeconfig.cache
+H:\Meu Drive\Doc Silas\Silas\Logica\Portifolios_Pessoais\Projeto_1_CS\Portifolio_1_StoregeCarSystem\Portifolio_1_StoregeCarSystem\obj\Debug\net6.0\ref\Portifolio_1_StoregeCarSystem.dll
